@@ -1,0 +1,2 @@
+- Convertion between CImage and BYTE :
+https://deweymao.github.io/c/c++/2017/11/30/convertion_between_cimage_and_byte.html
