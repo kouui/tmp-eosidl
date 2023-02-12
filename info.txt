@@ -1,2 +1,5 @@
 - Convertion between CImage and BYTE :
 https://deweymao.github.io/c/c++/2017/11/30/convertion_between_cimage_and_byte.html
+
+- Canon EOS SDK download taken picture directly to a buffer or stream
+https://stackoverflow.com/questions/62867337/canon-eos-sdk-download-taken-picture-directly-to-a-buffer-or-stream
